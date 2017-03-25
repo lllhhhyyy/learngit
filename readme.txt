@@ -8,3 +8,4 @@ git a new branch is simple.
 =======
 git is is easy anf 
 >>>>>>> featural
+git is afree software.
