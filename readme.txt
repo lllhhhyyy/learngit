@@ -9,3 +9,4 @@ git a new branch is simple.
 git is is easy anf 
 >>>>>>> feat
 bug bug bug.
+git git soft ware.
