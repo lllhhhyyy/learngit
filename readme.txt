@@ -8,3 +8,4 @@ git a new branch is simple.
 =======
 git is is easy anf 
 >>>>>>> featural
+this is new new new new is new new new nwe newnew new.
